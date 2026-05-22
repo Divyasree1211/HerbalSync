@@ -1,0 +1,16 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#E6F1E8"/>
+  <circle cx="185" cy="145" r="86" fill="#CFE4D2"/>
+  <circle cx="735" cy="526" r="118" fill="#F7E7B5"/>
+  <path d="M277 500C340 392 463 324 603 326C625 326 643 344 643 366V503C643 527 624 546 600 546H300C279 546 266 518 277 500Z" fill="#B7D7BE"/>
+  <rect x="360" y="184" width="180" height="362" rx="34" fill="#507861"/>
+  <rect x="390" y="139" width="120" height="66" rx="17" fill="#304D3D"/>
+  <rect x="414" y="96" width="72" height="51" rx="14" fill="#D7A84F"/>
+  <rect x="392" y="263" width="116" height="168" rx="18" fill="#F7F6F1"/>
+  <path d="M425 335C461 295 500 315 501 351C475 356 447 354 425 335Z" fill="#6FA078"/>
+  <path d="M433 349C464 362 485 350 501 333" stroke="#507861" stroke-width="7" stroke-linecap="round"/>
+  <text x="450" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#20332C">HERBAL</text>
+  <text x="450" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#507861">SHAMPOO</text>
+  <path d="M232 420C264 355 315 332 371 340" stroke="#D7A84F" stroke-width="16" stroke-linecap="round"/>
+  <path d="M681 202C640 196 609 217 591 253" stroke="#D98A7D" stroke-width="15" stroke-linecap="round"/>
+</svg>

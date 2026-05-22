@@ -1,0 +1,11 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#EDF6EF"/>
+  <circle cx="177" cy="167" r="112" fill="#CFE4D2"/>
+  <circle cx="727" cy="506" r="134" fill="#F7E7B5"/>
+  <rect x="330" y="150" width="240" height="410" rx="44" fill="#F7F6F1"/>
+  <rect x="362" y="92" width="176" height="92" rx="30" fill="#507861"/>
+  <rect x="381" y="277" width="138" height="154" rx="22" fill="#E0EEE4"/>
+  <path d="M421 352C456 306 504 329 505 371C474 373 446 369 421 352Z" fill="#507861"/>
+  <text x="450" y="462" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20332C">NEEM</text>
+  <text x="450" y="498" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#507861">CLEANSER</text>
+</svg>

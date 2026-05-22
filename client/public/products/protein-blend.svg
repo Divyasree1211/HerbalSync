@@ -1,0 +1,10 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#FFF7E5"/>
+  <circle cx="185" cy="148" r="93" fill="#E0EEE4"/>
+  <circle cx="700" cy="520" r="128" fill="#F1D17E"/>
+  <path d="M300 525L337 179H563L600 525C602 546 586 565 565 565H335C314 565 298 546 300 525Z" fill="#D7A84F"/>
+  <rect x="356" y="118" width="188" height="88" rx="26" fill="#507861"/>
+  <rect x="356" y="302" width="188" height="142" rx="22" fill="#F7F6F1"/>
+  <text x="450" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#20332C">MORINGA</text>
+  <text x="450" y="397" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#507861">PROTEIN</text>
+</svg>

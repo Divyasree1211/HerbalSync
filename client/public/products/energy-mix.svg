@@ -1,0 +1,10 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="675" fill="#F7F6F1"/>
+  <circle cx="180" cy="520" r="122" fill="#F6D4CE"/>
+  <circle cx="724" cy="152" r="104" fill="#E0EEE4"/>
+  <rect x="315" y="187" width="270" height="350" rx="44" fill="#B98B4B"/>
+  <rect x="352" y="126" width="196" height="96" rx="32" fill="#20332C"/>
+  <rect x="360" y="308" width="180" height="130" rx="22" fill="#FFF7E5"/>
+  <text x="450" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#20332C">ASHWA</text>
+  <text x="450" y="394" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#507861">ENERGY</text>
+</svg>
