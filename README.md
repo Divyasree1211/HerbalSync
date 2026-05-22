@@ -45,6 +45,8 @@ securely log in
 access protected pages
 maintain authenticated sessions using JWT tokens
 <br>
+
+```bash
 HerbalSync/
 │
 ├── client/                # React Frontend
@@ -154,6 +156,8 @@ server/
 ├── package.json
 └── nodemon.json
 <br>
+
+```bash
 **Future Improvements**
 Product search & filtering
 Favorites/Wishlist system
