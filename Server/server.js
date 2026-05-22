@@ -14,12 +14,16 @@ connectDB();
 
 const app = express();
 
-app.use(
-  cors({
-    origin: process.env.CLIENT_URL || "http://localhost:5173",
-    credentials: true,
-  })
-);
+const cors = require("cors");
+
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "https://herbal-sync-git-main-divya12.vercel.app",
+    "https://herbal-sync-j3hwdhrg9-divya12.vercel.app"
+  ],
+  credentials: true
+}));
 app.use(express.json());
 
 app.use("/api/auth", authRoutes);
